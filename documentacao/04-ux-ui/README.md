@@ -18,7 +18,7 @@ Plano de experiência (UX) e interface (UI), com **Design System**, princípios 
 - **Feedback imediato** (acerto/erro, conclusão de fase, celebração).
 - **Reforço positivo**, sem punição pesada (jogo gentil).
 - **Sessões curtas** e objetivos claros por fase.
-- **Acessibilidade:** alto contraste, fonte legível, alvos de clique grandes.
+- **Acessibilidade:** alto contraste e alvos de clique grandes.
 
 ---
 
@@ -79,7 +79,7 @@ flowchart LR
 - [ ] Controle e liberdade (voltar ao menu, tentar de novo)
 - [ ] Consistência (mesmos botões/cores em todas as telas)
 - [ ] Prevenção de erros (jogo gentil, sem punição dura)
-- [ ] Reconhecer em vez de lembrar (ícones + texto)
+- [ ] Reconhecer ao invés vez de lembrar (ícones + texto)
 - [ ] Estética minimalista (foco no objetivo da fase)
 - [ ] Feedback de erro claro e amigável
 - [ ] Ajuda/instrução (mentor explica cada fase)
