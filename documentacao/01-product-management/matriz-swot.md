@@ -37,7 +37,6 @@ com **externos** (Oportunidades/Ameaças — o que vem do ambiente).
 
 ## ⛔ Ameaças (Threats) — externas, negativas
 - **Concorrência** com jogos comerciais de alta produção pela atenção do público.
-- **Privacidade de menores:** coletar dados esbarra em **LGPD** e **ECA**.
 - **Descontinuidade:** manutenção pode parar após o fim da disciplina.
 - **Atualização de conteúdo:** mudanças nas diretrizes oficiais exigem revisão.
 - **Uso indevido/plágio** se o licenciamento não for claro.
