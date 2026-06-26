@@ -58,8 +58,7 @@ gcc jogo-completo/HeroisDoDF_Bombeiro.c -o herois -lraylib -framework OpenGL -fr
 | 4 | [UX/UI](documentacao/04-ux-ui/) | Design System, Material/Atomic Design | Material Design 3 + Atomic Design + Nielsen |
 | 5 | [Segurança](documentacao/05-seguranca/) | Plano de segurança (cliente/servidor) | OWASP + ISO/IEC 27001 + STRIDE |
 | 6 | [Cloud](documentacao/06-cloud/) | Instanciamento em nuvem | AWS Well-Architected + 12-Factor |
-| 7 | [Apresentação](documentacao/07-apresentacao/) | Apresentação e simulação do jogo | Pitch Canvas + Golden Circle |
-| 8 | [Claude / IA](documentacao/08-claude-ia/) | Uso transparente de IA no projeto | Prompt Engineering + Responsible AI |
+| 7 | [Claude / IA](documentacao/08-claude-ia/) | Uso transparente de IA no projeto | Prompt Engineering + Responsible AI |
 
 📊 **Matriz SWOT completa:**
 [`documentacao/01-product-management/matriz-swot.md`](documentacao/01-product-management/matriz-swot.md)
