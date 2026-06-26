@@ -126,9 +126,8 @@ de partes compartilhadas). O **jogo que compila e roda** é o arquivo único em
 
 ## 👩‍💻 Autores
 
-Projeto desenvolvido pelos alunos: **Amanda Soares, Cecilia Alemi,
-Eduarda Moura, Isabelle Reis, Mariana Nogueira, Maria Jhuliana Brito
-e Thiago Campêlo.**
+Projeto desenvolvido pelos alunos: [Amanda Soares](https://github.com/aamandasoares) · [Cecilia Alemi](https://github.com/cecinred) · [Eduarda Moura](https://github.com/eduardamr14) · [Isabelle Reis](https://github.com/isabellereiis) · [Mariana Nogueira](https://github.com/nmmari) ·
+[Maria Jhuliana Brito](https://github.com/mariajhulianabrito-png) · [Tiago Campelo](https://github.com/tiagocampelodeoliveira-oss).
 
 Inspirado no trabalho do **Corpo de Bombeiros Militar do Distrito Federal**.
 
