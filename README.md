@@ -33,6 +33,15 @@ gcc jogo/jogo-completo/HeroisDoDF_Bombeiro.c -o herois.exe -lraylib -lopengl32 -
 
 # Linux
 gcc jogo/jogo-completo/HeroisDoDF_Bombeiro.c -o herois -lraylib -lm -lpthread -ldl -lrt -lX11
+
+# macOS
+gcc jogo-completo/HeroisDoDF_Bombeiro.c -o herois -lraylib -framework OpenGL -framework Cocoa -framework IOKit
+./herois
+```
+
+> ⚠️ **Codificação:** o arquivo está em **UTF-8** (necessário para os acentos).
+> Ao abrir/salvar no editor, mantenha UTF-8 para não quebrar a acentuação.
+
 ```
 > Precisa da biblioteca **[Raylib](https://www.raylib.com/)** instalada.
 > Mantenha os arquivos em **UTF-8** (por causa dos acentos).
